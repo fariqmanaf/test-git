@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Pertemuan 1\Pertemuan 1\bin\Debug\Pertemuan 1.exe.config
+C:\Users\LENOVO\source\repos\Pertemuan 1\Pertemuan 1\bin\Debug\Pertemuan 1.exe
+C:\Users\LENOVO\source\repos\Pertemuan 1\Pertemuan 1\bin\Debug\Pertemuan 1.pdb
+C:\Users\LENOVO\source\repos\Pertemuan 1\Pertemuan 1\obj\Debug\Pertemuan 1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Pertemuan 1\Pertemuan 1\obj\Debug\Pertemuan 1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Pertemuan 1\Pertemuan 1\obj\Debug\Pertemuan 1.exe
+C:\Users\LENOVO\source\repos\Pertemuan 1\Pertemuan 1\obj\Debug\Pertemuan 1.pdb
