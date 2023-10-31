@@ -27,6 +27,7 @@ Console.WriteLine("Jenis Kelamin : " + person1.JenisKelamin);
 Console.WriteLine("Profesi : " + person1.Profesi);
 Console.WriteLine("Tanggal Lahir : " + person1.TanggalLahir);
 Console.WriteLine("Jumlah Kendaraan : " + person1.JumlahKendaraan);
+Console.WriteLine("ini adalah tes git");
 
 namespace PBO
 {
